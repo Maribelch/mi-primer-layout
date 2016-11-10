@@ -1,1 +1,64 @@
-/* Ingresa tu css aqui */
+*{
+  margin: 0px;  
+}
+.grandote{
+   width: 550px;
+    margin: auto;
+}
+.img-logo{
+    width: 100%;
+}
+header hr{
+    width: 100%;
+}
+.main-nav li {
+    display: inline-block;
+    font-size: 20px;  
+   } 
+.main-nav li :after{
+    content: "|";
+        margin-left: 5px;
+}
+
+.img-grupiño{
+    width: 700px;
+    margin-top: 10px;
+}
+.super hr{
+    width: 50px;
+    margin: 20px;
+}
+
+.super p{
+    margin: 0 100px;
+    text-align: center;
+}
+.super hr{
+    width: 50px;
+    margin: 20px auto;
+}
+div{
+    width: 800px;
+    height: 800px;
+}
+.m{
+    width:250px;
+    height: 250px;
+    display: inline-block;
+}
+
+img{
+    display:inline-block;    
+}
+.p{
+    position: relative;
+    bottom: 25px;
+    color: #fff;
+    left: 80px;
+}
+hr{
+    width: 50px;
+    border: 1px solid black;
+    margin:auto;
+}
+
